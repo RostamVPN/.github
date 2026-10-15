@@ -97,7 +97,7 @@ The Rust crates are vendored in-tree and the first-party servers, cores and apps
 
 The system was assessed in October 2026 as engagement RVPN-01, seven work packages, one per repository above. The reports are in [sec-audit](https://github.com/RostamVPN/sec-audit), prepared by Red Team Ltd (Internet Mastering &amp; Company, Inc., DBA Red Team Ltd.), audit powered by Claude Mythos 5.1. Each is a post-remediation edition: findings fixed during the engagement carry a Fix Note naming the commit and the verification performed, and open items stay listed.
 
-Found something? Read [SECURITY.md](https://github.com/RostamVPN/.github/blob/main/SECURITY.md) and write to sina@redteam.net with `SECURITY` in the subject; the PGP fingerprint is in that file. Please do not open a public issue for a vulnerability.
+Found something? [SECURITY.md](https://github.com/RostamVPN/.github/blob/main/SECURITY.md) has the contact address and the PGP fingerprint. Please do not open a public issue for a vulnerability.
 
 ## Also in this organisation
 
