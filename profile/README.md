@@ -95,8 +95,6 @@ Found something? Read [SECURITY.md](https://github.com/RostamVPN/.github/blob/ma
 
 ## Also in this organisation
 
-- [nooshdaroo](https://github.com/RostamVPN/nooshdaroo): a censorship-resistant SOCKS5 proxy that tunnels traffic through DNS queries. One binary.
-- [red-browser](https://github.com/RostamVPN/red-browser): a browser where the DNS tunnel is the internet connection, with Instagram, Telegram and WhatsApp built in.
 - Forks we build on or track: [proteus](https://github.com/RostamVPN/proteus), [sing-box](https://github.com/RostamVPN/sing-box), [bitchat](https://github.com/RostamVPN/bitchat) and [bitchat-android](https://github.com/RostamVPN/bitchat-android).
 
 <p align="center"><sub>© 2026 Internet Mastering &amp; Company, Inc. · Apache-2.0 and GPL-2.0 · support@rostam.app</sub></p>
