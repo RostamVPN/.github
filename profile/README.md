@@ -8,6 +8,12 @@
 Clients, cores, carriers and exit servers. The interesting parts are in the code.</p>
 
 <p align="center">
+  <a href="https://rostam.app/"><img alt="Website" src="https://img.shields.io/badge/rostam.app-website-E3A24A?style=for-the-badge"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.rostamvpn.android"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-RostamVPN-34A853?style=for-the-badge&logo=googleplay&logoColor=white"></a>
+  <a href="https://apps.apple.com/app/id1487875612"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-RostamVPN-0D96F6?style=for-the-badge&logo=apple&logoColor=white"></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/RostamVPN/redsocket_http"><img alt="Rust" src="https://img.shields.io/badge/Rust-servers%20%26%20cores-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
   <a href="https://github.com/RostamVPN/rostamvpn-android"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"></a>
   <a href="https://github.com/RostamVPN/rostamvpn_ios"><img alt="Swift" src="https://img.shields.io/badge/Swift-iOS-F05138?style=for-the-badge&logo=swift&logoColor=white"></a>
@@ -97,4 +103,4 @@ Found something? Read [SECURITY.md](https://github.com/RostamVPN/.github/blob/ma
 
 - Forks we build on or track: [proteus](https://github.com/RostamVPN/proteus), [sing-box](https://github.com/RostamVPN/sing-box), [bitchat](https://github.com/RostamVPN/bitchat) and [bitchat-android](https://github.com/RostamVPN/bitchat-android).
 
-<p align="center"><sub>© 2026 Internet Mastering &amp; Company, Inc. · Apache-2.0 and GPL-2.0 · support@rostam.app</sub></p>
+<p align="center"><sub>© 2026 Internet Mastering &amp; Company, Inc. · Apache-2.0 and GPL-2.0 · <a href="https://rostam.app/">rostam.app</a> · support@rostam.app</sub></p>
