@@ -19,4 +19,4 @@ We confirm the report or ask questions, fix in the open in the affected reposito
 
 ## Scope
 
-The repositories under https://github.com/RostamVPN. The published penetration test reports for the system are in [sec-audit](https://github.com/RostamVPN/sec-audit); please check whether an item is already listed there as open before reporting it.
+The repositories under [github.com/RostamVPN](https://github.com/RostamVPN). The published penetration test reports for the system are in [sec-audit](https://github.com/RostamVPN/sec-audit); please check whether an item is already listed there as open before reporting it.
